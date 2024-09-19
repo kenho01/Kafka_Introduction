@@ -7,7 +7,3 @@
 - Consumer listens to the topic and writes the consumed data as JSON files into an S3 bucket.
 - TODO: Use AWS Crawler, Glue & Athena to analyze data.
 
-## Architecture Diagram
-<div style="text-align: center;">
-  <img src="images/architecturediagram.png" alt="architecture_diagram" width="600"/>
-</div>
